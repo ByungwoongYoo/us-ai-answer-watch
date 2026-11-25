@@ -1,0 +1,118 @@
+question_id,question,tool,valid_answers,brand,answers_naming_brand
+Q01,What is the best Korean sunscreen for oily skin?,Google AI Mode,1,Beauty of Joseon,1
+Q01,What is the best Korean sunscreen for oily skin?,Google AI Mode,1,SKIN1004,1
+Q01,What is the best Korean sunscreen for oily skin?,Google AI Mode,1,Haruharu Wonder,1
+Q01,What is the best Korean sunscreen for oily skin?,Google AI Mode,1,Anua,1
+Q01,What is the best Korean sunscreen for oily skin?,ChatGPT API,2,Beauty of Joseon,2
+Q01,What is the best Korean sunscreen for oily skin?,ChatGPT API,2,Etude,1
+Q01,What is the best Korean sunscreen for oily skin?,ChatGPT API,2,SKIN1004,1
+Q01,What is the best Korean sunscreen for oily skin?,ChatGPT API,2,Anua,1
+Q02,What's the best Korean sunscreen for dry skin?,Google AI Mode,2,Beauty of Joseon,2
+Q02,What's the best Korean sunscreen for dry skin?,Google AI Mode,2,SKIN1004,2
+Q02,What's the best Korean sunscreen for dry skin?,Google AI Mode,2,Round Lab,2
+Q02,What's the best Korean sunscreen for dry skin?,ChatGPT API,2,Beauty of Joseon,2
+Q02,What's the best Korean sunscreen for dry skin?,ChatGPT API,2,Round Lab,2
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,SKIN1004,2
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Round Lab,2
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Haruharu Wonder,2
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Beauty of Joseon,1
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Purito,1
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Dr.G,1
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Knours,1
+Q03,Which Korean sunscreen is best for sensitive skin?,Google AI Mode,2,Iunik,1
+Q03,Which Korean sunscreen is best for sensitive skin?,ChatGPT API,2,Etude,2
+Q04,What's a good Korean sunscreen to wear under makeup?,Google AI Mode,2,Beauty of Joseon,2
+Q04,What's a good Korean sunscreen to wear under makeup?,Google AI Mode,2,SKIN1004,2
+Q04,What's a good Korean sunscreen to wear under makeup?,Google AI Mode,2,Round Lab,2
+Q04,What's a good Korean sunscreen to wear under makeup?,Google AI Mode,2,Haruharu Wonder,1
+Q04,What's a good Korean sunscreen to wear under makeup?,Google AI Mode,2,Isntree,1
+Q04,What's a good Korean sunscreen to wear under makeup?,ChatGPT API,2,Beauty of Joseon,2
+Q04,What's a good Korean sunscreen to wear under makeup?,ChatGPT API,2,Round Lab,1
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Haruharu Wonder,2
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Dr.G,2
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,AXIS-Y,2
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,SKIN1004,1
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Goodal,1
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Knours,1
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Beplain,1
+Q05,What are the best K-beauty mineral sunscreens?,Google AI Mode,2,Torriden,1
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,Haruharu Wonder,2
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,Etude,1
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,Goodal,1
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,Beauty of Joseon,1
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,SKIN1004,1
+Q05,What are the best K-beauty mineral sunscreens?,ChatGPT API,2,Dr.G,1
+Q06,Which Korean sunscreen should I buy on Amazon?,Google AI Mode,2,SKIN1004,2
+Q06,Which Korean sunscreen should I buy on Amazon?,Google AI Mode,2,Round Lab,2
+Q06,Which Korean sunscreen should I buy on Amazon?,Google AI Mode,2,Haruharu Wonder,2
+Q06,Which Korean sunscreen should I buy on Amazon?,Google AI Mode,2,Beauty of Joseon,1
+Q06,Which Korean sunscreen should I buy on Amazon?,ChatGPT API,2,Beauty of Joseon,2
+Q06,Which Korean sunscreen should I buy on Amazon?,ChatGPT API,2,Round Lab,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Isntree,2
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Tocobo,2
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,SKIN1004,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Missha,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Make P:rem,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Beauty of Joseon,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,Google AI Mode,2,Abib,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,ChatGPT API,2,Abib,1
+Q07,What's the best Korean sunscreen stick for reapplying during the day?,ChatGPT API,2,Beauty of Joseon,1
+Q08,What's a good Korean sunscreen for men?,Google AI Mode,2,Beauty of Joseon,2
+Q08,What's a good Korean sunscreen for men?,Google AI Mode,2,SKIN1004,2
+Q08,What's a good Korean sunscreen for men?,Google AI Mode,2,Round Lab,2
+Q08,What's a good Korean sunscreen for men?,Google AI Mode,2,Anua,1
+Q08,What's a good Korean sunscreen for men?,Google AI Mode,2,Innisfree,1
+Q08,What's a good Korean sunscreen for men?,ChatGPT API,2,Beauty of Joseon,2
+Q08,What's a good Korean sunscreen for men?,ChatGPT API,2,Round Lab,1
+Q09,What is the best Korean tinted sunscreen?,Google AI Mode,2,Beauty of Joseon,2
+Q09,What is the best Korean tinted sunscreen?,Google AI Mode,2,Numbuzin,2
+Q09,What is the best Korean tinted sunscreen?,Google AI Mode,2,SKIN1004,1
+Q09,What is the best Korean tinted sunscreen?,Google AI Mode,2,Innisfree,1
+Q09,What is the best Korean tinted sunscreen?,Google AI Mode,2,d'Alba,1
+Q09,What is the best Korean tinted sunscreen?,ChatGPT API,2,Beauty of Joseon,2
+Q09,What is the best Korean tinted sunscreen?,ChatGPT API,2,Dr.Jart+,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,Beauty of Joseon,2
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,Haruharu Wonder,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,Anua,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,COSRX,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,SKIN1004,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,Round Lab,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,Google AI Mode,2,Innisfree,1
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,ChatGPT API,2,Beauty of Joseon,2
+Q10,Which Korean sunscreen leaves no white cast on dark skin?,ChatGPT API,2,SKIN1004,2
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Beauty of Joseon,2
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,SKIN1004,2
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Round Lab,1
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Anua,1
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Make P:rem,1
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Haruharu Wonder,1
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,Google AI Mode,2,Numbuzin,1
+Q11,What Korean sunscreen won't break me out if I have acne-prone skin?,ChatGPT API,2,Beauty of Joseon,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,Google AI Mode,2,Beauty of Joseon,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,Google AI Mode,2,SKIN1004,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,Google AI Mode,2,Round Lab,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,Google AI Mode,2,Isntree,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,Google AI Mode,2,Innisfree,1
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,ChatGPT API,2,Beauty of Joseon,2
+Q12,I need a lightweight Korean sunscreen that doesn't pill under moisturizer. Any recommendations?,ChatGPT API,2,SKIN1004,2
+Q13,What's a hydrating Korean sunscreen for winter?,Google AI Mode,2,Beauty of Joseon,2
+Q13,What's a hydrating Korean sunscreen for winter?,Google AI Mode,2,SKIN1004,2
+Q13,What's a hydrating Korean sunscreen for winter?,Google AI Mode,2,Round Lab,2
+Q13,What's a hydrating Korean sunscreen for winter?,Google AI Mode,2,Isntree,1
+Q13,What's a hydrating Korean sunscreen for winter?,ChatGPT API,2,Beauty of Joseon,2
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Beauty of Joseon,2
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Anua,2
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Make P:rem,2
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Haruharu Wonder,1
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Innisfree,1
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,Etude,1
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",Google AI Mode,2,House of Hur,1
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",ChatGPT API,2,Etude,2
+Q14,"Which Korean sunscreen has a non-greasy finish for hot, humid weather?",ChatGPT API,2,Dr.G,1
+Q15,What Korean sunscreen do dermatologists recommend?,Google AI Mode,2,Beauty of Joseon,2
+Q15,What Korean sunscreen do dermatologists recommend?,Google AI Mode,2,SKIN1004,2
+Q15,What Korean sunscreen do dermatologists recommend?,Google AI Mode,2,Round Lab,2
+Q15,What Korean sunscreen do dermatologists recommend?,Google AI Mode,2,Isntree,2
+Q15,What Korean sunscreen do dermatologists recommend?,ChatGPT API,2,Beauty of Joseon,2
+Q15,What Korean sunscreen do dermatologists recommend?,ChatGPT API,2,SKIN1004,2
+Q15,What Korean sunscreen do dermatologists recommend?,ChatGPT API,2,Round Lab,1
